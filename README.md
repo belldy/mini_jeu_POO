@@ -1,9 +1,10 @@
 # mini_jeu_POO
 
 **************************************
+
               Welcome to              
-            DRi's_FiRsT_GAmE          
-                by :Dri               
+           :DRi's_FiRsT_GAmE          
+                       
 **************************************
 
 Comment jouer ?
