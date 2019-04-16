@@ -12,12 +12,11 @@ Comment jouer ?
 - clone ce git
 - bundle install
 - lance ruby app.rb ou ruby app_2.rb
+- Have fun !
 
 
 **************************************
 
-              Have fun !            
+              by Drieli Luz            
                        
 **************************************
-
-by Drieli Luz
